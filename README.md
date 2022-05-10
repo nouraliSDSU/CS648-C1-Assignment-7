@@ -1,6 +1,6 @@
 # Company Inventory Page
 
-Assignment 6. Added Bootstrap
+Assignment 7. Added Aggregation for total row count.
 
 ## Initial Step
 

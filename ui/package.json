@@ -1,7 +1,7 @@
 {
-  "name": "assignment6-ui",
+  "name": "assignment7-ui",
   "version": "1.0.0",
-  "description": "Assignment 6",
+  "description": "Assignment 7",
   "main": "index.js",
   "scripts": {
     "start": "npm run compile && nodemon -w uiserver.js -w .env uiserver.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nouraliSDSU/CS648-C1-Assignment-6.git"
+    "url": "git+https://github.com/nouraliSDSU/CS648-C1-Assignment-7.git"
   },
   "author": "Nour Ali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nouraliSDSU/CS648-C1-Assignment-6.git"
+    "url": "https://github.com/nouraliSDSU/CS648-C1-Assignment-7.git"
   },
-  "homepage": "https://github.com/nouraliSDSU/CS648-C1-Assignment-6.git",
+  "homepage": "https://github.com/nouraliSDSU/CS648-C1-Assignment-7.git",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.4.1",
